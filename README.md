@@ -6,7 +6,7 @@ Create you discord Bot: https://discord.com/developers/applications
 Copy the token of your bot and insert it into the code bot.py
 $ git clone https://github.com/mrofcodyx/instaSINT.git
 $ cd instaSINT
-$ python3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 ## - Usage Bot:
 ```
